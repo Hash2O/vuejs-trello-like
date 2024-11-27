@@ -1,0 +1,7 @@
+npm install vue@latest
+(typescript yes, all others no)
+npm install
+npm i vuedraggable@next
+npm i @vueuse/core
+npm install -D tailwindcss autoprefixer
+npx tailwind init -p
